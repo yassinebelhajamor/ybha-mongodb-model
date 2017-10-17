@@ -1,0 +1,32 @@
+{
+  "name": "ybha-mongodb-model",
+  "version": "1.0.5",
+  "description": "A NoSQL data modeler for MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.30"
+  },
+  "deprecated": false,
+  "keywords": [
+    "MongoDB",
+    "ODM",
+    "noSQL",
+    "scale",
+    "scaling"
+  ],
+  "author": {
+    "name": "Yassine Bel Haj Amor",
+    "email": "yassine.belhajamor@outlook.fr"
+  },
+  "license": "MIT"
+}
